@@ -1,0 +1,72 @@
+commit ab54701fb4e670a49084068dacaee8113bfaf034
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 21:29:47 2022 +0200
+
+    commits.txt
+
+commit e09802adc0ff8c0b0b3a839e290b39a7cd561e97
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 20:06:47 2022 +0200
+
+    Actualizo README.md
+
+commit ef8c4e8818d09ebd6cabedf4262aad53ec2cbf39
+Author: Nômino D Lord <102656422+NominoDLord@users.noreply.github.com>
+Date:   Sat Aug 13 19:53:31 2022 +0200
+
+    Actualizar README.md
+
+commit be61b31742afabfc9879a0fc311d544bb708e76a
+Author: Nômino D Lord <102656422+NominoDLord@users.noreply.github.com>
+Date:   Sat Aug 13 19:14:35 2022 +0200
+
+    Actualizar html
+
+commit b6b478159922b573f92d113b449f62557ef199fe
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 18:27:51 2022 +0200
+
+    Final
+
+commit 9c7ebc0626dfe67040d391d3ce43086cd34bc3c8
+Merge: 066efff 4c2cfeb
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 18:16:52 2022 +0200
+
+    Fusión ramas
+
+commit 066efff7a6d2bf6575777f18d938cd985da6fbbb
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 18:09:05 2022 +0200
+
+    Estilos añadidos
+
+commit 4c2cfeb5d34f15ec85347cfe22e97d90631c3d2f
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 17:58:34 2022 +0200
+
+    Imagen añadida
+
+commit 2e6e0b1970a3d6fb66779c52eb5a33fc6ac45de7
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 17:34:46 2022 +0200
+
+    README.txt -> README.md
+
+commit 456fb53161d9562a20e656fa1ca8dd58c462fcb6
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 16:58:49 2022 +0200
+
+    Archivos añadidos
+
+commit 70f293932a1a7a34709b61e30a91bb3f844072c8
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 14:02:20 2022 +0200
+
+    Reinicio del repositorio
+
+commit 7c64f8ad06dc19399b3178a4046ffef291fce185
+Author: Nomino D Lord <FFM_99@hotmail.com>
+Date:   Tue Aug 9 02:01:28 2022 +0200
+
+    Primera actualización
