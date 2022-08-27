@@ -1,6 +1,86 @@
-commit ab54701fb4e670a49084068dacaee8113bfaf034
+commit e4c92594ba925825943038d92e3f641d991c1add
 Author: NominoDLord <FFM_99@hotmail.com>
-Date:   Sat Aug 13 21:29:47 2022 +0200
+Date:   Sat Aug 27 16:10:16 2022 +0200
+
+    commit 3 (rama)
+
+commit bbef08b00d56fd01a5cca7ab0e50c94a492c0b2f
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 16:09:09 2022 +0200
+
+    commit 2 (rama)
+
+commit cbd336825b0ee186d73ea1f0350945155977dbc2
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 16:07:58 2022 +0200
+
+    commit 1
+
+commit 895194933688ab39c33b34fa4fc21111ce8e6662
+Merge: 5ec8e54 c1cefad
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 15:50:52 2022 +0200
+
+    commit 3
+
+commit 5ec8e541ef8247dc1bdab243e10ecfe9de747ecf
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 15:44:01 2022 +0200
+
+    commit 2 (master)
+
+commit c1cefade4b567ea11e17696fa8e2fc4c10ae2405
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 15:42:22 2022 +0200
+
+    commit 2 (rama)
+
+commit bb06d9ad4b7086e4bdaa67f7023e2ec3120a156f
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 15:39:17 2022 +0200
+
+    commit 1
+
+commit ab8f79f3e72803b253a0a8d378cc7db70114d31a
+Merge: ef47b1e d45e7d6
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 27 03:34:05 2022 +0200
+
+    Prueba de fusión conflictiva
+
+commit ef47b1eb4deec8b1053276f20bbcdc37e79b4329
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Fri Aug 26 06:13:13 2022 +0200
+
+    modificación archivos nuevos
+
+commit d45e7d6cd176a2ed7c14400072bb78800b7c66d8
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Fri Aug 26 06:03:57 2022 +0200
+
+    modificar archivo + crear commit
+
+commit 0daed5bf7877ec07b50696a856c623bb9ad21ce7
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Fri Aug 26 04:17:20 2022 +0200
+
+    prueba de staging area
+
+commit c29b9e2d8eb90e8896c201517c520b8030656b1a
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Fri Aug 26 04:13:35 2022 +0200
+
+    pueba de staging area
+
+commit 15e89be4e6080537161cbd6ccfd87fc4f833ceb9
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Fri Aug 26 03:58:15 2022 +0200
+
+    se añade archivo nuevo.txt
+
+commit a1631a21d16577c990f54d1935bc7e78a671d7c7
+Author: NominoDLord <FFM_99@hotmail.com>
+Date:   Sat Aug 13 21:52:38 2022 +0200
 
     commits.txt
 
