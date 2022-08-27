@@ -1,6 +1,0 @@
-master 1
-rama 1
-master 2
-rama 2
-master 3
-rama 3
